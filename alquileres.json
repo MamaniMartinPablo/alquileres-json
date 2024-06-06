@@ -1,0 +1,6495 @@
+[
+   {
+      "id": "MLA1419043197",
+      "title": "Habitación 3x3 Hombre Solos Servicio Incluidos.depto 2 Pers.",
+      "condition": "not_specified",
+      "thumbnail_id": "709121-MLA51935113381_102022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1419043197-habitacion-3x3-hombre-solos-servicio-incluidosdepto-2-pers-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_709121-MLA51935113381_102022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 1,
+      "price": 120000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-01T04:00:00.000Z",
+      "seller": {
+        "id": 532837217,
+        "nickname": "GERARDODAMIANRUBIO"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "12 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 12,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "12 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 12
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "12 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 12,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "12 ha",
+              "struct": {
+                "number": 12,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "San blas 2633",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJTDc4MDda",
+          "name": "Villa del Parque"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGZlZG1sYQ",
+          "name": "Capital Federal"
+        },
+        "state": {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -34.609522,
+        "longitude": -58.4780703
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1411616891",
+      "title": "Cabañas Entre Aromos Chascomús",
+      "condition": "used",
+      "thumbnail_id": "829507-MLA48345739515_112021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1411616891-cabanas-entre-aromos-chascomus-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_829507-MLA48345739515_112021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 2,
+      "price": 17500,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-25T04:00:00.000Z",
+      "seller": {
+        "id": 251696918,
+        "nickname": "JUANJAURRETCHE"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "45 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 45,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "45 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 45
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "0.5 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 0.5,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "0.5 ha",
+              "struct": {
+                "number": 0.5,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Las palmeras 510, Chascomús, Provincia de Buenos Aires, Argentina",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNIQTYzODVa",
+          "name": "Chascomús"
+        },
+        "city": {
+          "id": "TUxBQ0NIQTE1OTU",
+          "name": "Chascomús"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.5765263,
+        "longitude": -58.0631337
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1411468605",
+      "title": "Pension Habitacion 1p Mes 1 Persona San Martin",
+      "condition": "used",
+      "thumbnail_id": "887093-MLA29624351624_032019",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1411468605-pension-habitacion-1p-mes-1-persona-san-martin-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_887093-MLA29624351624_032019-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 3,
+      "price": 180000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-24T04:00:00.000Z",
+      "seller": {
+        "id": 71588897,
+        "nickname": "PENSIONFAMILIAR"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "280 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 280,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "280 m²",
+              "struct": {
+                "number": 280,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "360 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 360,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "360 m²",
+              "struct": {
+                "number": 360,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Alicia Moreau de Justo 1400",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJTDg5NDBa",
+          "name": "Villa Lynch"
+        },
+        "city": {
+          "id": "TUxBQ0dFTmVyYWxz",
+          "name": "General San Martín"
+        },
+        "state": {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -34.5845597,
+        "longitude": -58.5327447
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1419222431",
+      "title": "Del Bosque Cabañas Chascomús",
+      "condition": "used",
+      "thumbnail_id": "654863-MLA73677535380_012024",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1419222431-del-bosque-cabanas-chascomus-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_654863-MLA73677535380_012024-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 4,
+      "price": 17500,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": null,
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-02T04:00:18.000Z",
+      "seller": {
+        "id": 251696918,
+        "nickname": "JUANJAURRETCHE"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "40 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 40,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "40 m²",
+              "struct": {
+                "number": 40,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1600 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1600,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1600 ha",
+              "struct": {
+                "number": 1600,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Orzali 406",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNIQTYzODVa",
+          "name": "Chascomús"
+        },
+        "city": {
+          "id": "TUxBQ0NIQTE1OTU",
+          "name": "Chascomús"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.5705058,
+        "longitude": -58.0210974
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1423794687",
+      "title": "Alquiler Cabañas Chascomus 4 O 5 Personas, Aire Ac, Piscina.",
+      "condition": "used",
+      "thumbnail_id": "906252-MLA48061812032_102021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1423794687-alquiler-cabanas-chascomus-4-o-5-personas-aire-ac-piscina-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_906252-MLA48061812032_102021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 5,
+      "price": 25000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-26T04:00:00.000Z",
+      "seller": {
+        "id": 320611198,
+        "nickname": "GIAMMARRUSCOANDREASILVIA"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "30 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 30,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "30 m²",
+              "struct": {
+                "number": 30,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "30 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 30,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "30 m²",
+              "struct": {
+                "number": 30,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "MARTINETAS 21",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNIQTYzODVa",
+          "name": "Chascomús"
+        },
+        "city": {
+          "id": "TUxBQ0NIQTE1OTU",
+          "name": "Chascomús"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.6018927,
+        "longitude": -57.9739064
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1410635559",
+      "title": "Cabañas De Los Cisnes Chascomus",
+      "condition": "used",
+      "thumbnail_id": "904935-MLA27326489590_052018",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1410635559-cabanas-de-los-cisnes-chascomus-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_904935-MLA27326489590_052018-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 6,
+      "price": 200,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-19T04:00:00.000Z",
+      "seller": {
+        "id": 89038328,
+        "nickname": "SALBISETTI"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "100 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 100,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "100 m²",
+              "struct": {
+                "number": 100,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1000 m²",
+              "struct": {
+                "number": 1000,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "De los Cisnes 14",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNIQTYzODVa",
+          "name": "Chascomús"
+        },
+        "city": {
+          "id": "TUxBQ0NIQTE1OTU",
+          "name": "Chascomús"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.6066172,
+        "longitude": -57.9723615
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1412073299",
+      "title": "Habitaciones Precio Fijo 3 Meses!!! - Atendido Por Sus Dueños, Ingreso Inmediato",
+      "condition": "used",
+      "thumbnail_id": "881113-MLA51570497712_092022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1412073299-habitaciones-precio-fijo-3-meses-atendido-por-sus-duenos-ingreso-inmediato-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_881113-MLA51570497712_092022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 7,
+      "price": 200000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-28T04:00:40.000Z",
+      "seller": {
+        "id": 60970884,
+        "nickname": "SILVIA SPINA"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "300 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 300,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "300 m²",
+              "struct": {
+                "number": 300,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "300 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 300,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "300 m²",
+              "struct": {
+                "number": 300,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "GANA 220 220",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZFUjY3MDFa",
+          "name": "Versalles"
+        },
+        "city": {
+          "id": "TUxBQ0NBUGZlZG1sYQ",
+          "name": "Capital Federal"
+        },
+        "state": {
+          "id": "TUxBUENBUGw3M2E1",
+          "name": "Capital Federal"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -34.6370044,
+        "longitude": -58.5267777
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1660340090",
+      "title": "Cabañas Sierra De La Ventana Pcia De Buenos Aires Complejo San Bernardo",
+      "condition": "not_specified",
+      "thumbnail_id": "670624-MLA43815814315_102020",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1660340090-cabanas-sierra-de-la-ventana-pcia-de-buenos-aires-complejo-san-bernardo-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_670624-MLA43815814315_102020-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 8,
+      "price": 30000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-06T04:00:00.000Z",
+      "seller": {
+        "id": 181340004,
+        "nickname": "FLNA4809907"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "1500 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1500,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1500 m²",
+              "struct": {
+                "number": 1500,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "0.25 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 0.25,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "0.25 ha",
+              "struct": {
+                "number": 0.25,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Curamalal 93",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlNJRTEzMjla",
+          "name": "Sierra de la Ventana"
+        },
+        "city": {
+          "id": "TUxBQ1RPUjI0OTI",
+          "name": "Tornquist"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -38.1339152,
+        "longitude": -61.8068206
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1408033155",
+      "title": "Cabaña Y Casa De Campo",
+      "condition": "used",
+      "thumbnail_id": "780187-MLA44064930674_112020",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1408033155-cabana-y-casa-de-campo-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_780187-MLA44064930674_112020-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 9,
+      "price": 28500,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-10T04:00:00.000Z",
+      "seller": {
+        "id": 73244161,
+        "nickname": "RIESE S.A."
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "309 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 309,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "309 m²",
+              "struct": {
+                "number": 309,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "210172 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 210172,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "210172 m²",
+              "struct": {
+                "number": 210172,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Ruta 191 21500",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TVhYRG95bGVUVXhCUTFOQlRqRXhNVFU",
+          "name": "Doyle"
+        },
+        "city": {
+          "id": "TUxBQ1NBTjExMTU",
+          "name": "San Pedro"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.9080032,
+        "longitude": -59.8182878
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1716473612",
+      "title": "Cabañas Bungalows Complejo Tierraverde",
+      "condition": "used",
+      "thumbnail_id": "669395-MLA71762470713_092023",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1716473612-cabanas-bungalows-complejo-tierraverde-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_669395-MLA71762470713_092023-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 10,
+      "price": 35000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-21T04:00:00.000Z",
+      "seller": {
+        "id": 65961469,
+        "nickname": "GERGIORDANO"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "100 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 100,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "100 m²",
+              "struct": {
+                "number": 100,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "6000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 6000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "6000 m²",
+              "struct": {
+                "number": 6000,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "WHX3+7M Gualeguaychú, Entre Ríos Province, Argentina",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkdVQTY5MTBa",
+          "name": "Gualeguaychú"
+        },
+        "city": {
+          "id": "TUxBQ0dVQTYyZTY2",
+          "name": "Gualeguaychú"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.0518255,
+        "longitude": -58.4458445
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1735323890",
+      "title": "Alquiler Cabaña Tandil",
+      "condition": "used",
+      "thumbnail_id": "761786-MLA48365086378_112021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1735323890-alquiler-cabana-tandil-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_761786-MLA48365086378_112021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 11,
+      "price": 15000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-08T04:00:13.000Z",
+      "seller": {
+        "id": 110028376,
+        "nickname": "ANITAS00"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "100 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 100,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "100 m²",
+              "struct": {
+                "number": 100,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "2000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 2000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "2000 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 2000
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "PAVON 2500",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlRBTjE5ODha",
+          "name": "Tandil"
+        },
+        "city": {
+          "id": "TUxBQ1RBTjUxMTE",
+          "name": "Tandil"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -37.3337194,
+        "longitude": -59.1794428
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1695595800",
+      "title": "Cabañas A 30 Mtrs Del Mar",
+      "condition": "used",
+      "thumbnail_id": "902021-MLA52617124532_112022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1695595800-cabanas-a-30-mtrs-del-mar-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_902021-MLA52617124532_112022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 12,
+      "price": 30000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-17T21:04:11.000Z",
+      "seller": {
+        "id": 96685667,
+        "nickname": "MAGRA22000"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "40 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 40,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "40 m²",
+              "struct": {
+                "number": 40,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1000 m²",
+              "struct": {
+                "number": 1000,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "50 85",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+        },
+        "city": {
+          "id": "TUxBQ0xBUzUxYzJk",
+          "name": "Las Toninas"
+        },
+        "state": {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -36.5060244,
+        "longitude": -56.6910496
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1418488363",
+      "title": "Cabaña De Troncos Particular",
+      "condition": "used",
+      "thumbnail_id": "772521-MLA40336509579_012020",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1418488363-cabana-de-troncos-particular-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_772521-MLA40336509579_012020-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 13,
+      "price": 35000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-28T04:00:00.000Z",
+      "seller": {
+        "id": 157790031,
+        "nickname": "SILVINACINTI"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "57 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 57,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "57 m²",
+              "struct": {
+                "number": 57,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "600 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 600,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "600 m²",
+              "struct": {
+                "number": 600,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Cerro de la Carpa y Paloma s/n 1",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJTDM2MjRa",
+          "name": "Villa Ventana"
+        },
+        "city": {
+          "id": "TUxBQ1RPUjI0OTI",
+          "name": "Tornquist"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -38.0911207,
+        "longitude": -61.9362574
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1698196688",
+      "title": "Alquiler Departamento En San Clemente Del Tuyú ",
+      "condition": "used",
+      "thumbnail_id": "705344-MLA74463843842_022024",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1698196688-alquiler-departamento-en-san-clemente-del-tuyu-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_705344-MLA74463843842_022024-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 14,
+      "price": 18000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-08T04:00:00.000Z",
+      "seller": {
+        "id": 74898313,
+        "nickname": "DILEOSILVIA"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "40 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 40,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "40 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 40
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "40 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 40,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "40 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 40
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "calle 5 1874",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+        },
+        "city": {
+          "id": "TUxBQ1NBTmJkMjMw",
+          "name": "San Clemente"
+        },
+        "state": {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -36.3565088,
+        "longitude": -56.7238572
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1758741846",
+      "title": "Alquiler Cabaña En Bariloche 3/4 Pax Hermoso Entorno",
+      "condition": "used",
+      "thumbnail_id": "785324-MLA51933397906_102022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1758741846-alquiler-cabana-en-bariloche-34-pax-hermoso-entorno-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_785324-MLA51933397906_102022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 15,
+      "price": 30000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-31T04:00:00.000Z",
+      "seller": {
+        "id": 53494417,
+        "nickname": "A.ROLLE"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "36 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 36,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "36 m²",
+              "struct": {
+                "number": 36,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1300 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1300,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1300 ha",
+              "struct": {
+                "number": 1300,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Alt Bustillo 12300 12300",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlBMQTQ2MzE2OQ",
+          "name": "Playa Serena"
+        },
+        "city": {
+          "id": "TUxBQ1NBTmY1OWQ",
+          "name": "Bariloche"
+        },
+        "state": {
+          "id": "TUxBUFLNT29iZmZm",
+          "name": "Río Negro"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -41.1061238,
+        "longitude": -71.4384317
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1712514254",
+      "title": "Cabaña En Tandil - Para 3/4 Personas - Alquiler Temporario ",
+      "condition": "not_specified",
+      "thumbnail_id": "871069-MLA73477631642_122023",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1712514254-cabana-en-tandil-para-34-personas-alquiler-temporario-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_871069-MLA73477631642_122023-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 16,
+      "price": 60000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": null,
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-18T04:16:41.000Z",
+      "seller": {
+        "id": 128350602,
+        "nickname": "CODIGO 7000"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "36 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 36,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "36 m²",
+              "struct": {
+                "number": 36,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "0.5 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 0.5,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "0.5 ha",
+              "struct": {
+                "unit": "ha",
+                "number": 0.5
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "RONCA HUE 1330",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlRBTjE5ODha",
+          "name": "Tandil"
+        },
+        "city": {
+          "id": "TUxBQ1RBTjUxMTE",
+          "name": "Tandil"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -37.3481406,
+        "longitude": -59.1652028
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1424685851",
+      "title": "Alquilo En Gualeguaychu Frente Al Rio",
+      "condition": "used",
+      "thumbnail_id": "742951-MLA44476437968_012021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1424685851-alquilo-en-gualeguaychu-frente-al-rio-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_742951-MLA44476437968_012021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 17,
+      "price": 15000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-08-01T04:00:00.000Z",
+      "seller": {
+        "id": 97550572,
+        "nickname": "DONPERICO"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "80 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 80,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "80 m²",
+              "struct": {
+                "number": 80,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "100 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 100,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "100 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 100
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "camino de la costa 627",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkdVQTY5MTBa",
+          "name": "Gualeguaychú"
+        },
+        "city": {
+          "id": "TUxBQ0dVQTYyZTY2",
+          "name": "Gualeguaychú"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.015386,
+        "longitude": -58.4981104
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1679444456",
+      "title": "Cabañas Inti-yaykuna - Tandil",
+      "condition": "used",
+      "thumbnail_id": "653428-MLA28329575665_102018",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1679444456-cabanas-inti-yaykuna-tandil-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_653428-MLA28329575665_102018-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 18,
+      "price": 40000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-23T04:00:00.000Z",
+      "seller": {
+        "id": 344686447,
+        "nickname": "CABAÑAS INTI-YAYKUNA"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "260 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 260,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "260 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 260
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "30000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 30000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "30000 m²",
+              "struct": {
+                "number": 30000,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Cereseto 311",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlRBTjE5ODha",
+          "name": "Tandil"
+        },
+        "city": {
+          "id": "TUxBQ1RBTjUxMTE",
+          "name": "Tandil"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -37.3544162,
+        "longitude": -59.1384283
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1414347605",
+      "title": "Departamentos Hotel Los Pinos Mar Del Plata Habitaciones Piscina Juegos Infantiles Cabañas Mute Surf Playas Sur Mar Del Plata",
+      "condition": "used",
+      "thumbnail_id": "947360-MLA48627200140_122021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1414347605-departamentos-hotel-los-pinos-mar-del-plata-habitaciones-piscina-juegos-infantiles-cabanas-mute-surf-playas-sur-mar-del-plata-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_947360-MLA48627200140_122021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 19,
+      "price": 11000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-10T04:00:00.000Z",
+      "seller": {
+        "id": 72172183,
+        "nickname": "LOSPINOS2024"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "50 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 50,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "50 m²",
+              "struct": {
+                "number": 50,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1000 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 1000
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "bonet 50",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkVMRjc1NzUwNg",
+          "name": "El Faro"
+        },
+        "city": {
+          "id": "TUxBQ01BUjU2MGMw",
+          "name": "Mar del Plata"
+        },
+        "state": {
+          "id": "TUxBUENPU2ExMmFkMw",
+          "name": "Bs.As. Costa Atlántica"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -38.090808,
+        "longitude": -57.547691
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1407136011",
+      "title": "Pension Familiar Habitacion Pieza 1 Mes 2personas San Martin",
+      "condition": "used",
+      "thumbnail_id": "887093-MLA29624351624_032019",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1407136011-pension-familiar-habitacion-pieza-1-mes-2personas-san-martin-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_887093-MLA29624351624_032019-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 20,
+      "price": 200000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-05T04:00:00.000Z",
+      "seller": {
+        "id": 71588897,
+        "nickname": "PENSIONFAMILIAR"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "250 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 250,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "250 m²",
+              "struct": {
+                "number": 250,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "300 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 300,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "300 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 300
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Alicia Moreau de Justo 1400",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJTDg5NDBa",
+          "name": "Villa Lynch"
+        },
+        "city": {
+          "id": "TUxBQ0dFTmVyYWxz",
+          "name": "General San Martín"
+        },
+        "state": {
+          "id": "TUxBUEdSQWU4ZDkz",
+          "name": "Bs.As. G.B.A. Norte"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -34.584566,
+        "longitude": -58.5327409
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1415233187",
+      "title": "Alquiler Cabañas Chascomus ",
+      "condition": "used",
+      "thumbnail_id": "972229-MLA48472912955_122021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1415233187-alquiler-cabanas-chascomus-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_972229-MLA48472912955_122021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 21,
+      "price": 30000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-13T04:00:00.000Z",
+      "seller": {
+        "id": 284900725,
+        "nickname": "TESU1522795"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "50 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 50,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "50 m²",
+              "struct": {
+                "number": 50,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "2800 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 2800,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "2800 m²",
+              "struct": {
+                "number": 2800,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "LOS BIGUAS 16",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNIQTYzODVa",
+          "name": "Chascomús"
+        },
+        "city": {
+          "id": "TUxBQ0NIQTE1OTU",
+          "name": "Chascomús"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.6071831,
+        "longitude": -57.9710615
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1754731128",
+      "title": " Cabaña En San Pedro Provincia. Cabaña De Troncos Frente Al Rio Parana.",
+      "condition": "not_specified",
+      "thumbnail_id": "979529-MLA44077063797_112020",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1754731128-cabana-en-san-pedro-provincia-cabana-de-troncos-frente-al-rio-parana-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_979529-MLA44077063797_112020-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 22,
+      "price": 80000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-27T04:00:00.000Z",
+      "seller": {
+        "id": 178183380,
+        "nickname": "VICTORJULIOCOLANGELO"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "85 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 85,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "85 m²",
+              "struct": {
+                "number": 85,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "3 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 3,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "3 ha",
+              "struct": {
+                "number": 3,
+                "unit": "ha"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Callejon Moretti 1300",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TVhYTGEgRXN0cmVsbGFUVXhCUTFOQlRqRXhNV",
+          "name": "La Estrella"
+        },
+        "city": {
+          "id": "TUxBQ1NBTjExMTU",
+          "name": "San Pedro"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.6614002,
+        "longitude": -59.7020077
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1419792891",
+      "title": "Complejo De Cabañas Latitud 38.15, Sierra De La Ventana ",
+      "condition": "used",
+      "thumbnail_id": "789927-MLA69317148050_052023",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1419792891-complejo-de-cabanas-latitud-3815-sierra-de-la-ventana-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_789927-MLA69317148050_052023-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 23,
+      "price": 55000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-05T04:00:00.000Z",
+      "seller": {
+        "id": 643681862,
+        "nickname": "RUASILVIA20220325131051"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "50 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 50,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "50 m²",
+              "struct": {
+                "number": 50,
+                "unit": "m²"
+              },
+              "source": 6316276763983939
+            }
+          ],
+          "source": 6316276763983939,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "700 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 700,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "700 m²",
+              "struct": {
+                "number": 700,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Huanguelén entre Calfulcura, Curamalal y, Sierra de la Ventana, Provincia de Buenos Aires, Argentina",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlNJRTEzMjla",
+          "name": "Sierra de la Ventana"
+        },
+        "city": {
+          "id": "TUxBQ1RPUjI0OTI",
+          "name": "Tornquist"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -38.1312776,
+        "longitude": -61.808377
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1420708541",
+      "title": "Alquiler De Cabañas Con Pileta En San Pedro Bs As",
+      "condition": "used",
+      "thumbnail_id": "897749-MLA48791334335_012022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1420708541-alquiler-de-cabanas-con-pileta-en-san-pedro-bs-as-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_897749-MLA48791334335_012022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 24,
+      "price": 45000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-09T04:00:00.000Z",
+      "seller": {
+        "id": 145958182,
+        "nickname": "PAJARO-RIOS"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "100 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 100,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "100 m²",
+              "struct": {
+                "number": 100,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "200 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 200,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "200 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 200
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "San Martín 1321",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TVhYTGEgRXN0cmVsbGFUVXhCUTFOQlRqRXhNV",
+          "name": "La Estrella"
+        },
+        "city": {
+          "id": "TUxBQ1NBTjExMTU",
+          "name": "San Pedro"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.6757835,
+        "longitude": -59.6628664
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1730839572",
+      "title": "Alquilo Cabañas En Dina Huapi (bariloche) Para 2 A 10 Pax",
+      "condition": "used",
+      "thumbnail_id": "719191-MLA44468789027_012021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1730839572-alquilo-cabanas-en-dina-huapi-bariloche-para-2-a-10-pax-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_719191-MLA44468789027_012021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 25,
+      "price": 108000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-04T04:00:00.000Z",
+      "seller": {
+        "id": 68627926,
+        "nickname": "MAURITUZITO"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "1500 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1500,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1500 m²",
+              "struct": {
+                "number": 1500,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "5000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 5000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "5000 m²",
+              "struct": {
+                "number": 5000,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Patagonia Argentina 676",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkNFTjI4MDkwNg",
+          "name": "Centro"
+        },
+        "city": {
+          "id": "TUxBQ1NBTmY1OWQ",
+          "name": "Bariloche"
+        },
+        "state": {
+          "id": "TUxBUFLNT29iZmZm",
+          "name": "Río Negro"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -41.0730219,
+        "longitude": -71.1752225
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1745848196",
+      "title": "Cabaña",
+      "condition": "not_specified",
+      "thumbnail_id": "644798-MLA73658543970_012024",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1745848196-cabana-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_644798-MLA73658543970_012024-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 26,
+      "price": 14000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": null,
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-07-20T16:59:45.000Z",
+      "seller": {
+        "id": 91745894,
+        "nickname": "ZULUAGA_ANA"
+      },
+      "attributes": [
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "1400 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1400,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1400 m²",
+              "struct": {
+                "number": 1400,
+                "unit": "m²"
+              },
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1.4 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1.4,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1.4 ha",
+              "struct": {
+                "number": 1.4,
+                "unit": "ha"
+              },
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 3298252595505050
+            }
+          ],
+          "source": 3298252595505050,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Magnasco Al Norte 1640",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkdVQTY5MTBa",
+          "name": "Gualeguaychú"
+        },
+        "city": {
+          "id": "TUxBQ0dVQTYyZTY2",
+          "name": "Gualeguaychú"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -33.0077756,
+        "longitude": -58.5111666
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1409907239",
+      "title": "Casa En Los Reyunos Para Hasta 8 Personas",
+      "condition": "used",
+      "thumbnail_id": "940416-MLA52501654867_112022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1409907239-casa-en-los-reyunos-para-hasta-8-personas-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_940416-MLA52501654867_112022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 27,
+      "price": 150,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-17T04:00:00.000Z",
+      "seller": {
+        "id": 51391265,
+        "nickname": "SACADARASA"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "120 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 120,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "120 m²",
+              "struct": {
+                "number": 120,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "140 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 140,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "140 m²",
+              "struct": {
+                "number": 140,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Club de Náutica y Pesca Los Reyunos SN",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkxPUzM0Mjda",
+          "name": "Los Reyunos"
+        },
+        "city": {
+          "id": "TUxBQ1NBTjdmNmMy",
+          "name": "San Rafael"
+        },
+        "state": {
+          "id": "TUxBUE1FTmE5OWQ4",
+          "name": "Mendoza"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -34.6128922,
+        "longitude": -68.3390622
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1411657601",
+      "title": "Cabañas",
+      "condition": "used",
+      "thumbnail_id": "711670-MLA40252378092_122019",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1411657601-cabanas-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_711670-MLA40252378092_122019-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 28,
+      "price": 10000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-26T04:00:00.000Z",
+      "seller": {
+        "id": 331153194,
+        "nickname": "MARIANAROZANC"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "40 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 40,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "40 m²",
+              "struct": {
+                "unit": "m²",
+                "number": 40
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1000 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1000,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1000 m²",
+              "struct": {
+                "number": 1000,
+                "unit": "m²"
+              },
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "9RVG+77 Victoria, Entre Rios, Argentina",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJQzUwMzBa",
+          "name": "Victoria"
+        },
+        "city": {
+          "id": "TUxBQ1ZJQzljNDZh",
+          "name": "Victoria"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -32.6068371,
+        "longitude": -60.1743572
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1665951948",
+      "title": "Cabañas Rurales El Encuentro Lobos",
+      "condition": "used",
+      "thumbnail_id": "969619-MLA52330176208_112022",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1665951948-cabanas-rurales-el-encuentro-lobos-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_969619-MLA52330176208_112022-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 29,
+      "price": 45000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": null,
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-11T04:00:00.000Z",
+      "seller": {
+        "id": 33462299,
+        "nickname": "NAPO140374"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "42 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 42,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "42 m²",
+              "struct": {
+                "number": 42,
+                "unit": "m²"
+              },
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "11 ha",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 11,
+            "unit": "ha"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "11 ha",
+              "struct": {
+                "number": 11,
+                "unit": "ha"
+              },
+              "source": 1505
+            }
+          ],
+          "source": 1505,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "El encuentro SN",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlNBTDg4OTNa",
+          "name": "Salvador María"
+        },
+        "city": {
+          "id": "TUxBQ0xPQjgxNzk",
+          "name": "Lobos"
+        },
+        "state": {
+          "id": "TUxBUFpPTmFpbnRl",
+          "name": "Buenos Aires Interior"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -35.3078657,
+        "longitude": -59.1690551
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1414721589",
+      "title": "Complejo Turístico Con 10 Bungalows, Pileta De Verano Y Parque. Precio Desde $32.000 Por Noche ",
+      "condition": "used",
+      "thumbnail_id": "646718-MLA46901989778_072021",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1414721589-complejo-turistico-con-10-bungalows-pileta-de-verano-y-parque-precio-desde-32000-por-noche-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_646718-MLA46901989778_072021-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 30,
+      "price": 32000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-06-12T04:00:00.000Z",
+      "seller": {
+        "id": 313466951,
+        "nickname": "LELIAVIVIANACHARRIER"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "900 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 900,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "900 m²",
+              "struct": {
+                "number": 900,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "900 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 900,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "900 m²",
+              "struct": {
+                "number": 900,
+                "unit": "m²"
+              },
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 1572
+            }
+          ],
+          "source": 1572,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Avenida Urquiza 3215",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQlZJTDQyODRa",
+          "name": "Villa Elisa"
+        },
+        "city": {
+          "id": "TUxBQ0NPTGE4MmU",
+          "name": "Colón"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -32.1514225,
+        "longitude": -58.4144709
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1411340349",
+      "title": "Alquiler Cabañas Frente Al Lago En Villa Carlos Paz",
+      "condition": "used",
+      "thumbnail_id": "617473-MLA69420849999_052023",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1411340349-alquiler-cabanas-frente-al-lago-en-villa-carlos-paz-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_617473-MLA69420849999_052023-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 31,
+      "price": 25000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": null,
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-25T14:32:21.000Z",
+      "seller": {
+        "id": 1374765187,
+        "nickname": "NICOCAB"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "80 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 80,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "80 m²",
+              "struct": {
+                "number": 80,
+                "unit": "m²"
+              },
+              "source": 7092
+            }
+          ],
+          "source": 7092,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "1900 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 1900,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "1900 m²",
+              "struct": {
+                "number": 1900,
+                "unit": "m²"
+              },
+              "source": 7398128016960827
+            }
+          ],
+          "source": 7398128016960827,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "Bélgica 35",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TVhYVmlsbGEgZGVsIExhZ29UVmhZVm1sc2JHR",
+          "name": "Villa del Lago"
+        },
+        "city": {
+          "id": "TVhYVmlsbGEgQ2FybG9zIFBhelRVeEJVRU5QV",
+          "name": "Villa Carlos Paz"
+        },
+        "state": {
+          "id": "TUxBUENPUmFkZGIw",
+          "name": "Córdoba"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -31.3917454,
+        "longitude": -64.492659
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    },
+    {
+      "id": "MLA1680824750",
+      "title": "El Mirador Apart Hotel ",
+      "condition": "used",
+      "thumbnail_id": "931215-MLA25163220525_112016",
+      "catalog_product_id": null,
+      "listing_type_id": "gold_premium",
+      "permalink": "https://inmueble.mercadolibre.com.ar/MLA-1680824750-el-mirador-apart-hotel-_JM",
+      "buying_mode": "classified",
+      "site_id": "MLA",
+      "category_id": "MLA50283",
+      "domain_id": "MLA-OTHER_PROPERTIES_FOR_RENT",
+      "thumbnail": "http://http2.mlstatic.com/D_931215-MLA25163220525_112016-I.jpg",
+      "currency_id": "ARS",
+      "order_backend": 32,
+      "price": 40000,
+      "original_price": null,
+      "sale_price": null,
+      "available_quantity": 1,
+      "official_store_id": null,
+      "use_thumbnail_id": true,
+      "accepts_mercadopago": false,
+      "shipping": {
+        "store_pick_up": false,
+        "free_shipping": false,
+        "logistic_type": "not_specified",
+        "mode": "not_specified",
+        "tags": [
+        ],
+        "benefits": null,
+        "promise": null
+      },
+      "stop_time": "2024-05-24T04:00:00.000Z",
+      "seller": {
+        "id": 234145184,
+        "nickname": "ELMIRADORFEDERACION"
+      },
+      "attributes": [
+        {
+          "id": "ITEM_CONDITION",
+          "name": "Condición del ítem",
+          "value_id": "2230581",
+          "value_name": "Usado",
+          "attribute_group_id": "",
+          "attribute_group_name": "",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "2230581",
+              "name": "Usado",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "COVERED_AREA",
+          "name": "Superficie cubierta",
+          "value_id": null,
+          "value_name": "30 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 30,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "30 m²",
+              "struct": {
+                "number": 30,
+                "unit": "m²"
+              },
+              "source": null
+            }
+          ],
+          "source": null,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "TOTAL_AREA",
+          "name": "Superficie total",
+          "value_id": null,
+          "value_name": "200 m²",
+          "attribute_group_id": "FIND",
+          "attribute_group_name": "Ficha técnica",
+          "value_struct": {
+            "number": 200,
+            "unit": "m²"
+          },
+          "values": [
+            {
+              "id": null,
+              "name": "200 m²",
+              "struct": {
+                "number": 200,
+                "unit": "m²"
+              },
+              "source": null
+            }
+          ],
+          "source": null,
+          "value_type": "number_unit"
+        },
+        {
+          "id": "OPERATION",
+          "name": "Operación",
+          "value_id": "242074",
+          "value_name": "Alquiler temporal",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242074",
+              "name": "Alquiler temporal",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "PROPERTY_TYPE",
+          "name": "Inmueble",
+          "value_id": "242068",
+          "value_name": "Otro inmueble",
+          "attribute_group_id": "MAIN",
+          "attribute_group_name": "Principales",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242068",
+              "name": "Otro inmueble",
+              "struct": null,
+              "source": 1
+            }
+          ],
+          "source": 1,
+          "value_type": "list"
+        },
+        {
+          "id": "WITH_VIRTUAL_TOUR",
+          "name": "Con tour virtual",
+          "value_id": "242084",
+          "value_name": "No",
+          "attribute_group_id": "OTHERS",
+          "attribute_group_name": "Otros",
+          "value_struct": null,
+          "values": [
+            {
+              "id": "242084",
+              "name": "No",
+              "struct": null,
+              "source": 942334329061206
+            }
+          ],
+          "source": 942334329061206,
+          "value_type": "boolean"
+        }
+      ],
+      "location": {
+        "address_line": "parana 1730",
+        "zip_code": "",
+        "subneighborhood": null,
+        "neighborhood": {
+          "id": "TUxBQkZFRDIzMTZa",
+          "name": "Federación"
+        },
+        "city": {
+          "id": "TUxBQ0ZFRGQ4ZGM3",
+          "name": "Federación"
+        },
+        "state": {
+          "id": "TUxBUEVOVHMzNTdm",
+          "name": "Entre Ríos"
+        },
+        "country": {
+          "id": "AR",
+          "name": "Argentina"
+        },
+        "latitude": -31.7413197,
+        "longitude": -60.5115471
+      },
+      "seller_contact": {
+        "contact": "",
+        "other_info": "",
+        "webpage": "",
+        "area_code": "",
+        "phone": "",
+        "area_code2": "",
+        "phone2": "",
+        "email": ""
+      },
+      "installments": null,
+      "winner_item_id": null,
+      "catalog_listing": false,
+      "discounts": null,
+      "promotions": [
+      ],
+      "inventory_id": null
+    }
+]

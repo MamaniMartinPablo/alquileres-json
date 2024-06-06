@@ -1,0 +1,89 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body{
+    background-color: #FFF176;
+    color:#795548;
+}
+
+h1{
+    text-align: center;
+    padding: 5px;
+    margin: 10px;
+}
+.container{
+    background-color: #F9E79F;
+}
+.container .title{
+    width: 35vw;
+    text-align: center;
+    transition: all ease 1.1s;
+    -webkit-transition: all ease 1.1s;
+    -moz-transition: all ease 1.1s;
+    -ms-transition: all ease 1.1s;
+    -o-transition: all ease 1.1s;
+}
+.container .title:hover{
+    font-size: 1.2rem;
+}
+
+.container .image{
+    width: 25vw;
+}
+.container .price ,.condition{
+    width: 14vw;
+    text-align: center;
+    transition: all ease 1.1s;
+    -webkit-transition: all ease 1.1s;
+    -moz-transition: all ease 1.1s;
+    -ms-transition: all ease 1.1s;
+    -o-transition: all ease 1.1s;
+}
+.informacion a {
+    color: #795548;
+}
+
+.container .informacion{
+    width: 12vw;
+    text-align: center;
+    transition: all ease 1.1s;
+    -webkit-transition: all ease 1.1s;
+    -moz-transition: all ease 1.1s;
+    -ms-transition: all ease 1.1s;
+    -o-transition: all ease 1.1s;
+}
+.container .informacion:hover{ 
+    font-size: 1.2rem;
+    cursor: pointer;
+}
+
+.container .price:hover{ 
+    font-size: 1.2rem;
+}
+.condition:hover{
+    font-size: 1.2rem;
+}
+
+.image img{
+    width: 30vw;
+    height: 35vh;
+    object-fit: cover;
+    transition: all .6s;
+    -webkit-transition: all .6s;
+    -moz-transition: all .6s;
+    -ms-transition: all .6s;
+    -o-transition: all .6s;
+}
+
+.image img:hover{
+    transform: scale(1.05);
+}
+
+footer{
+    margin: 5px;
+    padding: 10px;
+}
